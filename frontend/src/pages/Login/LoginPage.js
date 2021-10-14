@@ -8,9 +8,9 @@ import CardHeader from "@mui/material/CardHeader";
 import CardActions from "@mui/material/CardActions";
 import CardContent from "@mui/material/CardContent";
 import Typography from "@mui/material/Typography";
-import Box from '@mui/material/Box';
-import GoogleLogin from 'react-google-login'
-import axios from 'axios'
+import Box from "@mui/material/Box";
+import GoogleLogin from "react-google-login";
+import axios from "axios";
 
 // styled components
 import NavBar from "../../components/NavBar/NavBar";
